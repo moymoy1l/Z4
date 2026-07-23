@@ -3,11 +3,11 @@ const shareBtn = document.getElementById("shareBtn");
 const shareLinks = document.getElementById("shareLinks");
 
 shareBtn.onclick = () => {
-    window.open("https://facebook.com/groups/1407008471329470/", "_blank")
+    window.open("https://www.facebook.com/share/g/1HAGTStoyr/", "_blank")
 };
 /* UNDANGAN */
 function joinWhatsAppGroup() {
-    window.open("https://facebook.com/groups/1407008471329470/");
+    window.open("https://www.facebook.com/share/g/1HAGTStoyr/");
 }
 
 function openFacebookPage() {
